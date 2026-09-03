@@ -32,7 +32,22 @@ I use `casiosync.py` from cron, like this:
 29 0,6,12,18 * * * python ~/projects/casio/casiosync.py --addr XX:XX:XX:XX:XX:XX --log --timeout 180 --quiet | logger --tag casio
 ```
 
-This puts all the data into syslog, which I can query from splunk.
+This puts all the data into syslog, which I can query from splunk, with a query like this:
+
+```
+process=casio steps NOT pending                        
+    | eval _time=strptime(time, "%Y-%m-%d %T")                  
+    | timechart span=1d per_day(steps) as steps                 
+    | trendline sma7(steps) as avg
+```
+
+<img width="2121" height="1288" alt="splunk" src="https://github.com/user-attachments/assets/8fa01fd4-542a-41a0-908c-920817d319a5" />
+
+You can also query it from the commandline, of course:
+
+```
+
+```
 
 # Data
 
