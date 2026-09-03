@@ -1,0 +1,5 @@
+# MISMATCH is expected: the 13:00 non-peek sync cleared 3,577 steps (the pre-clear baseline), then 6,235 new steps accumulated. @374 (9,812) still counts the cleared steps, so components reconstruct only 6,235.
+# Went for a walk around 13:30, relatively brisk pace for about an hour.
+# Then light chores around the house.
+# Data sync non-peek.
+eJxT42ASU2VkYvzPIM8AAixMczllwCwJxq0cdgyo4N//4QEvMfSw/GEm3j8MOMC/////k4ND1BgYfPgZGNgYIhlEwCYZMjAwCM1gYAAA4TsuTw==

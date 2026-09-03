@@ -1,0 +1,4 @@
+# Non-peek wipe: the prior sync cleared the hourly breakdown (front records + M1/M2) but the live total @374 persists. The "wiped" integrity label is expected, not corruption.
+# Immediately after previous time sync in non-peek mode, I synced again.
+# Expecting a very short buffer.
+eJxT42ASsmD8938U4oMMOMC/////k4N/8jIwHGRFN63clIEBAAXRWQ0=

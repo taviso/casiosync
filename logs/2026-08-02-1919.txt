@@ -1,0 +1,3 @@
+# MISMATCH is expected: a prior non-peek sync cleared the front records but left 231 steps in M1/M2. @374 (9,928) still counts the cleared steps.
+# Manual sync for debugging
+eJxT42CSFGZkYpBigAA7OIuNIZJBBMz693+4QS4GBQZDEvzFgAP8+///Pzn4hBoDQxk/umkaMxkYAJnyNiM=

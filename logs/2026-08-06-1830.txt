@@ -1,0 +1,2 @@
+# MISMATCH is expected: 18:30 auto-sync filled the day history (M1/M2) with only the post-clear activity, while @374 still counts steps cleared by the prior 12:30 non-peek sync.
+eJxT42CTMGBkZpBmkGcAAX/GU0xaYFYVUyALROw/Yym7PZjlwuDJqABmKTBIM0DAv/9DDyowTGXsZ9rGvJFBgij3M+AA//7//08OfqrFwJAngG5aIycjAwAXghj7

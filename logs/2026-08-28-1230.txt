@@ -1,0 +1,5 @@
+# 12:30 sync on 2026-08-28. The 77-step pending walk (intensity 8,69,0) visible
+# here commits to hour 12:00; in the 00:30 rollover (2026-08-29-0030.txt) it sits
+# at off+110, which anchors the rollover front-record hour mapping.
+# Non-peek sync: the end command cleared the committed 11:00 record (1,803 steps).
+eJxT49AQMmB0YQxjLWQgD/z7P/TgASbS3I/b7///k4Mj2BkY7jAxMHAwuEJNkmFgYGiQYGAAAGLzEzA=

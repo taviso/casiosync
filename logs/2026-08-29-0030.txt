@@ -1,0 +1,7 @@
+# 00:30 rollover on 2026-08-29. Previous day (2026-08-28) totals 12,154 steps,
+# but only 10,351 are recoverable: the 11:00 record (1,803) was cleared by the
+# non-peek 12:30 sync (2026-08-28-1230.txt). The 77-step pending walk from 12:30
+# commits at off+110 = hour 12:00, anchoring the rollover hour mapping.
+# Hours 15:00 and 16:00 both total 1,793 steps but with different intensity
+# breakdowns (522,1271,0 vs 1048,657,47,41) - a genuine coincidence, not a bug.
+eJxT49BkMGBkgAM7hmAoS51xF7McAyr4zbiJUR5NLIDtJnsZQwADA4MEy0QmfQZNBgYGLqbvLBBZNwZBBogpcxmWQlkcDK5Qvf/+DwxkYLBiuMnIwFDIyMBQydrD1Mmkw9DNIIPTPQw4QJU+A8NSQZA//v8nBeMyj4EBAEK3zlI=
