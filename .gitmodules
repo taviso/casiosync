@@ -1,0 +1,4 @@
+[submodule "gshock_api"]
+	path = gshock_api
+	url = https://github.com/taviso/gshock_api.git
+	branch = lifelog
