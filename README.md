@@ -43,7 +43,7 @@ process=casio steps NOT pending
     | trendline sma7(steps) as avg
 ```
 
-<img width="2121" height="1288" alt="splunk" src="https://github.com/user-attachments/assets/8fa01fd4-542a-41a0-908c-920817d319a5" />
+<img width="2506" height="1288" alt="Step Tracker" src="https://github.com/user-attachments/assets/38e25253-0f54-4ea4-898e-98993bd75e9d" />
 
 # Data
 
